@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.github.com/slhgltkn/" target="_blank" rel="noreferrer"><img src="[https://github.com/slhgltkn/slhgltkn/blob/main/giff.gif](https://github.com/slhgltkn/slhgltkn/blob/main/Banner.png)" alt="my banner"></a>
+  <a href="https://www.github.com/slhgltkn/" target="_blank" rel="noreferrer"><img src="https://github.com/slhgltkn/slhgltkn/blob/main/Banner.png" alt="my banner"></a>
 </p>
 
 <h3 align="center">
