@@ -7,7 +7,7 @@ Hi there, I'm Salih Gultekin 👋
 </h3>
 
 <h2 align="center">
-I'm a Entrepreneur 💼,Graphic Designer 🎨, UI & UX Designer 🎨 and Mobile Developer 📱!
+I'm a Entrepreneur 💼, Graphic Designer 🎨, UI & UX Designer 🎨 and Mobile Developer 📱!
 </h2> 
 
 I am interested in design, mobile developer, cyber security and entrepreneur. Thank you for visiting me...
@@ -29,7 +29,7 @@ I am interested in design, mobile developer, cyber security and entrepreneur. Th
 - 📱 Flutter (Dart) Mobile App 
 - 💻 UI & UX Design
 - 💻 Graphic Design
-- 
+- 💼 Entrepreneur 
 
 
 ## 📈 GitHub Stats 
