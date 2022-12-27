@@ -30,10 +30,11 @@ I am interested in design, software, cyber security and photography. Thank you f
 - 💻 Web HTML & CSS & JS 
 
 
-
-<h2 align="center">
-href="www.buymeacoffee.com/slhgltkn"
-</h2> 
 ## 📈 GitHub Stats 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=slhgltkn&show_icons=true&theme=radical)
+
+
+<h3 align="center">
+href="www.buymeacoffee.com/slhgltkn"
+</h3> 
