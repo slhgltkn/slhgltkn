@@ -7,10 +7,10 @@ Hi there, I'm Salih Gultekin 👋
 </h3>
 
 <h2 align="center">
-I'm a Graphic Designer 🎨, UI & UX Designer 🎨 and Photographer 📸!
+I'm a Entrepreneur 💼,Graphic Designer 🎨, UI & UX Designer 🎨 and Mobile Developer 📱!
 </h2> 
 
-I am interested in design, software, cyber security and photography. Thank you for visiting me...
+I am interested in design, mobile developer, cyber security and entrepreneur. Thank you for visiting me...
 
 ### 🤝 Connect with me:
 
@@ -24,10 +24,12 @@ I am interested in design, software, cyber security and photography. Thank you f
 <p></p>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-## 🌱 I'm currently learning
+## 🌱 Areas I've Worked
 
 - 📱 Flutter (Dart) Mobile App 
-- 💻 Web HTML & CSS & JS 
+- 💻 UI & UX Design
+- 💻 Graphic Design
+- 
 
 
 ## 📈 GitHub Stats 
@@ -38,3 +40,4 @@ I am interested in design, software, cyber security and photography. Thank you f
 <h3 align="center">
 www.buymeacoffee.com/slhgltkn
 </h3> 
+<a href="www.buymeacoffee.com/slhgltkn"><img align="left" src="https://play-lh.googleusercontent.com/aMb_Qiolzkq8OxtQZ3Af2j8Zsp-ZZcNetR9O4xSjxH94gMA5c5gpRVbpg-3f_0L7vlo" alt="slhgltkn | Github" width="24px"/></a>
