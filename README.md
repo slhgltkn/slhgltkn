@@ -42,3 +42,4 @@ I am interested in design, mobile developer, cyber security and entrepreneur. Th
 </h3> 
 
 
+<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&amp;emoji=💛&amp;slug=larpoux&amp;button_colour=5F7FFF&amp;font_colour=ffffff&amp;font_family=Cookie&amp;outline_colour=000000&amp;coffee_colour=FFDD00">
