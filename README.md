@@ -41,4 +41,4 @@ I am interested in design, mobile developer, cyber security and entrepreneur. Th
 www.buymeacoffee.com/slhgltkn<img align="left" src="https://play-lh.googleusercontent.com/aMb_Qiolzkq8OxtQZ3Af2j8Zsp-ZZcNetR9O4xSjxH94gMA5c5gpRVbpg-3f_0L7vlo" alt="slhgltkn | Twitter" width="24px"/>
 </h3> 
 
-<a href="www.buymeacoffee.com/slhgltkn"><img align="left" src="https://play-lh.googleusercontent.com/aMb_Qiolzkq8OxtQZ3Af2j8Zsp-ZZcNetR9O4xSjxH94gMA5c5gpRVbpg-3f_0L7vlo" alt="slhgltkn | Twitter" width="24px"/></a>
+
